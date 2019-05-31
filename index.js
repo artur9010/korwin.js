@@ -8,8 +8,8 @@ const korwin1 = [
     "Powiedzmy to wyraźnie:",
     "Mnie uczono (za komuny to było), że powinna być normalność. A",
     "Proszę państwa,",
-    "Proszę mi uwierzyć,"
-    "Proszę państwa! Przecież to jest rzeczą niewyobrażalną, że"
+    "Proszę mi uwierzyć,",
+    "Proszę państwa! Przecież to jest rzeczą niewyobrażalną, że",
     "Szanowni państwo, ja się urodziłem w normalnych czasach, kiedy panowała normalność. A dzisiaj"
 ];
 
@@ -64,7 +64,7 @@ const korwin5 = [
     "bo chcą stworzyć raj na ziemi,",
     "bo chcą niszczyć cywilizacje białego człowieka,",
     "ponieważ są socjalistami,",
-    "żeby wprowadzić ustrój komunistyczny,"
+    "żeby wprowadzić ustrój komunistyczny,",
     "aby pozbawić Polskę suwerenności,"
 ];
 
